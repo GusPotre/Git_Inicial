@@ -1,3 +1,3 @@
 # Git_Inicial
-Primeros inicios para el control de versiones.
-Día no se que
+Mi primer acercameinto en el control de versiones de código.
+Día no se que (Viernes 9 de diciembre de 2022).
