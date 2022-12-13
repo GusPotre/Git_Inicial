@@ -77,3 +77,5 @@ int main()
 
 <!-- Emoji -->
 [Emoji GitHub](https://gist.github.com/rxaviers/7360908 "Emojis URL")
+
+:sparkles:
